@@ -75,40 +75,7 @@ hobbies:
 
 
 ```yaml
-name: Jacopo Gaetani
-located_in: Italy
-Studend: true
-Ambitions_and_goals: Cyber security analyst
 
-education:
-  [
-    "3rd year of High school IT - Computer science",
-    "Self-tauhght in Linux world!",
-  ]
-
-favourite videogames:
-  [
-      "Clair Obscur: Expedition 33",
-      "Persona 5",
-      "Baldur's gate 3",
-      "Watch dogs 2",
-      "Bloodborne",
-  
-  ]
-hobbies:
-  [
-    "Dungeons and Dragons with my friends",
-    "Music",
-    favourite bands:
-    [
-        "Nirvana",
-        "Linkin park",
-        "Minor threat",
-    ]
-
-    
-  ]
-  
 ```
 
 <p align="center">
