@@ -1,7 +1,7 @@
 # JustAnotherKave-P
 <p align="center">
 <img src = immagini/<p align="center">
-<img src = immagini/joker-persona-5.gif alt = "Joker">
+<img src ="https://tenor.com/lxXhrmGDsWx.gif"  alt = "Joker">
 </p>
 
 
@@ -9,23 +9,23 @@
 
 
 ```yaml
-name: Jacopo Gaetani
+name: Cavedoni Lorenzo
 located_in: Italy
 Studend: true
-Ambitions_and_goals: Cyber security analyst
+Ambitions_and_goals: Cyber security analyst || Software Developer
 
 education:
   [
     "3rd year of High school IT - Computer science",
-    "Self-tauhght in Linux world!",
+    
   ]
 
 favourite videogames:
   [
       "Clair Obscur: Expedition 33",
-      "Persona 5",
+      "Elden Ring",
       "Baldur's gate 3",
-      "Watch dogs 2",
+      "Pokemon",
       "Bloodborne",
   
   ]
@@ -33,11 +33,14 @@ hobbies:
   [
     "Dungeons and Dragons with my friends",
     "Music",
+    "Hang Out"
     favourite bands:
     [
-        "Nirvana",
+        "System of a Down",
         "Linkin park",
-        "Minor threat",
+        "NeighboorHood",
+        "Slipknot"
+        "Sabaton"
     ]
 
     
