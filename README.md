@@ -22,6 +22,8 @@
     <!-- Cella Immagine -->
     <td width="30%" valign="top">
       <img src="Immagini(/DMCGithub.jpg" width="100%" alt="Profile Image">
+      <br>
+      <img src="Immagini(/rey.gif"width="100%" alt="Profile Image">
     </td>
     <!-- Cella Testo -->
     <td width="70%" valign="top">
