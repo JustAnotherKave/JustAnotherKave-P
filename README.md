@@ -4,6 +4,7 @@
 
 <div align="center">
   <img src="Immagini(/dante-dmc.gif">
+  <img src="Immagini(/ichigo.gif">
   <br><br>
   <a href="https://api.github-star-counter.workers.dev/user/JustAnotherKave">
     <img width="111px" alt="forks" title="Forks Repository" src="https://custom-icon-badges.demolab.com/github/forks/JustAnotherKave/JustAnotherKave?color=000000&logo=fork&style=for-the-badge&logoColor=white&labelColor=FF1001" /> 
@@ -71,7 +72,7 @@
 
 <!-- Sezione Contributions (Grafico superiore) -->
 <div align="center">
-  <h2>What I’ve built out of passion</h2>
+  <h2>What obsession can do</h2>
   <a href="https://github.com/JustAnotherKave">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustAnotherKave&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true" width="100%">
   </a>
@@ -79,22 +80,6 @@
 
 <br/>
 
-<!-- Tabella Skills e Stats (Parte inferiore) -->
-<table align="center" border="0">
-  <tr>
-    <!-- Colonna Sinistra: Calling Card e Skill Icons -->
-    <td valign="top" width="50%">
-      <img src="immagini/ichigo.gif" width="100%">
-      <br/><br/>
-      <div align="center">
-        
-      </div>
-    </td>
-    
-    
-  </tr>
-</table>
-</p>
 
 
 
