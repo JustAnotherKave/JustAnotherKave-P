@@ -1,80 +1,43 @@
 # JustAnotherKave
-<p align="center">
-<img src = immagini/<p align="center">
-<img src ="https://tenor.com/lxXhrmGDsWx.gif"  alt = "Joker">
-</p>
-
-
 <h2 align="center"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-
-```yaml
-name: Cavedoni Lorenzo
-located_in: Italy
-Studend: true
-Ambitions_and_goals: Cyber security analyst || Software Developer
-
-education:
-  [
-    "3rd year of High school IT - Computer science",
-    
-  ]
-
-favourite videogames:
-  [
-      "Clair Obscur: Expedition 33",
-      "Elden Ring",
-      "Baldur's gate 3",
-      "Pokemon",
-      "Bloodborne",
+<div align="center">
   
-  ]
-hobbies:
-  [
-    "Dungeons and Dragons with my friends",
-    "Music",
-    "Hang Out"
-    favourite bands:
-    [
-        "System of a Down",
-        "Linkin park",
-        "NeighboorHood",
-        "Slipknot"
-        "Sabaton"
-    ]
+  <a href="https://api.github-star-counter.workers.dev/user/JustAnotherKave">
+    <img width="111px" alt="forks" title="Forks Repository" src="https://custom-icon-badges.demolab.com/github/forks/JustAnotherKave/JustAnotherKave?color=000000&logo=fork&style=for-the-badge&logoColor=white&labelColor=FF1001" /> 
+  </a>
+  <a href="https://github.com/JustAnotherKave?tab=followers">
+    <img width="150px" alt="Followers" title="Github Followers" src="https://custom-icon-badges.herokuapp.com/github/followers/JustAnotherKave?color=000000&labelColor=FF1001&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+  </a>
+</div>
 
-    
-  ]
+<br>
+
+<div>
+  <!-- L'attributo align="left" sposta l'immagine a sinistra e permette al testo di starle accanto -->
+  <img align="left" src="Immagini(/DMCGithub.jpg" width="30%" alt="Profile Image">
   
-```
+  <br><br><br> <!-- Questi br aggiungono un po' di spazio per centrare verticalmente il testo -->
+  
+  <p align="center">
+    <b>I'm a third-year high school student, and I'm studying Computer Science!</b>
+  </p>
+</div>
 
-<p align="center">
-<img src = immagini/persona5-akira-kurusu.gif alt = "Joker">
-</p>
+<!-- Questo comando è fondamentale: dice alla pagina di smettere di affiancare gli elementi all'immagine -->
+<br clear="left"/>
 
 <h2 align="center"> 🚀 &nbsp;Some Tools I Have fun using</h2>
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="bash" width="45" height="45"/>
-
-
-</p> alt = "Joker">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" alt="clion" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 </p>
 
 
-<h2 align="center"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 
-```yaml
-
-```
 
