@@ -68,7 +68,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+
 <!-- Sezione Contributions (Grafico superiore) -->
 <div align="center">
   <h2>What I’ve built out of passion</h2>
@@ -84,12 +84,10 @@
   <tr>
     <!-- Colonna Sinistra: Calling Card e Skill Icons -->
     <td valign="top" width="50%">
-      <img src="immagini/callingcard.jpg" width="100%">
+      <img src="immagini/ichigo.gif" width="100%">
       <br/><br/>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=linux,arch,kali,redhat,ubuntu,debian,mint,bash" /><br>
-        <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,python,godot,replit" /><br>
-        <img src="https://skillicons.dev/icons?i=idea,clion,pycharm,visualstudio,vscode,git,github,docker" />
+        
       </div>
     </td>
     
