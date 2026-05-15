@@ -3,8 +3,8 @@
 <h2 align="center"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 <div align="center">
-  <img src="Immagini(/dante-dmc.gif">
-  <img src="Immagini(/ichigo.gif">
+  <img src="Immagini(/dante-dmc.gif"><img src="Immagini(/ichigo.gif">
+  
   <br><br>
   <a href="https://api.github-star-counter.workers.dev/user/JustAnotherKave">
     <img width="111px" alt="forks" title="Forks Repository" src="https://custom-icon-badges.demolab.com/github/forks/JustAnotherKave/JustAnotherKave?color=000000&logo=fork&style=for-the-badge&logoColor=white&labelColor=FF1001" /> 
